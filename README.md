@@ -1,7 +1,3 @@
-Got it! Here's an updated description incorporating the Quikr dataset:
-
----
-
 ## Car Price Predictor Using Linear Regression
 
 This repository contains a machine learning project for predicting car prices using Linear Regression. The goal of this project is to build a model that estimates the selling price of a car based on various features sourced from the Quikr dataset.
@@ -26,7 +22,7 @@ This repository contains a machine learning project for predicting car prices us
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/car-price-predictor.git
+   git clone https://github.com/Raunakkkkk/car-price-predictor.git
    ```
 
 2. **Install Dependencies**:
